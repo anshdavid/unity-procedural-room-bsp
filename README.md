@@ -1,13 +1,17 @@
 Procedural Indoor Room Layout Generation using BSP Tree
 ================
 
-> #### work in progress ...
-
-
-The algorithm is based on [Stackexchange answer](https://gamedev.stackexchange.com/a/82066)
-
-This is based on approach of Random Dungeon Generation using BSP Trees. The process in modified to achieve Indoor Room Generation.
-
+> Reference documentaion for the following instruction:
+>   1. [Stackexchange answer](https://gamedev.stackexchange.com/a/82066)
+>   2. [Random 2D dungeon][http://www.rombdn.com/blog/2018/01/12/random-dungeon-bsp-unity/]
+>   3. Tutorial by [Holistic3d](https://www.youtube.com/channel/UCp_SOgsRYdLfIEWLjM62ZJg)
 
 ---
 
+<p align="center">
+    <img height="300" src="docs/Screenshot0.png">
+</p>
+
+<p align="center">
+    <img height="300" src="docs/Screenshot1.png">
+</p>
